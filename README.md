@@ -9,4 +9,4 @@ We slightly modify the original Caffe library to supporting the 3D operations. Y
 For installation, please follow the offical instructions of [Caffe](http://caffe.berkeleyvision.org/installation.html).
 
 ## Note
--We use HDF5layer to read data. You need to firstly generate the hdf5 data from original data type.
+- We use **HDF5DataLayer** to read data. You need to  generate the hdf5 data from original data type.
